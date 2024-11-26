@@ -1,4 +1,4 @@
-# Car-data-set-(linear-regression)-
+# Purchasing -(linear-regression)-
 
 import pandas as pd
 path = '/content/Customer Purchasing Behaviors.xlsx'
